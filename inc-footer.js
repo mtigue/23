@@ -8,7 +8,7 @@ document.write("<li><a href='#disc-nav' data-transition='slide'>Discern</a></li>
 document.write("<li><a href='#faith-nav' data-transition='slide' data-prefetch='true' >Faith</a></li>");
 document.write("<li><a href='#news' data-transition='slide' data-prefetch='true' >Events</a></li>");
 document.write("<li><a href='#contact' data-transition='slide' data-prefetch='true' >Contact</a></li>");
-document.write("<li><a href='#all' data-transition='slide' data-prefetch='true'>All Pages</a></li>");
+document.write("<li><a href='#all' data-transition='slide' data-prefetch='true'>All</a></li>");
 
 document.write("</ul>");
 document.write("</div>");

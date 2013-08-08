@@ -4,6 +4,6 @@ document.write("<a href='index.html' data-theme='a' style='margin:3px 0px 0px 0p
 
 
 
-document.write("<div class='logo'><img style='margin:0px 5px -3px 0px;' src='http://www.web4uonline.com/pdxvocations/img2/icon.png'>PDX Vocations</div></div>");
+document.write("<div class='logo'><img style='margin:0px 5px -3px 0px;' src='img2/icon.png'>PDX Vocations</div></div>");
             
        

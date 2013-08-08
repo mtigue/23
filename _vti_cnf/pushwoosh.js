@@ -6,4 +6,4 @@ vti_modifiedby:SR|web4u\\mtigue
 vti_timecreated:TR|02 Jun 2013 21:32:29 -0000
 vti_cacheddtm:TX|02 Jun 2013 21:32:29 -0000
 vti_filesize:IR|3450
-vti_backlinkinfo:VX|23/main-working-smooth.html 23/main.html
+vti_backlinkinfo:VX|23/main.html
