@@ -7,3 +7,5 @@ vti_timecreated:TR|06 Aug 2013 00:13:58 -0000
 vti_cacheddtm:TX|06 Aug 2013 00:13:58 -0000
 vti_filesize:IR|455
 vti_backlinkinfo:VX|
+vti_syncofs_68.178.246.6\:21/pdxvocations:TW|08 Aug 2013 18:55:15 -0000
+vti_syncwith_68.178.246.6\:21/pdxvocations:TX|06 Aug 2013 00:13:58 -0000

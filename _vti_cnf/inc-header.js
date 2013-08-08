@@ -8,3 +8,5 @@ vti_backlinkinfo:VX|23/main.html
 vti_nexttolasttimemodified:TW|08 Aug 2013 17:04:59 -0000
 vti_cacheddtm:TX|08 Aug 2013 18:42:25 -0000
 vti_filesize:IR|420
+vti_syncofs_68.178.246.6\:21/pdxvocations:TW|08 Aug 2013 18:55:14 -0000
+vti_syncwith_68.178.246.6\:21/pdxvocations:TX|08 Aug 2013 18:42:25 -0000
